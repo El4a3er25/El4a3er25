@@ -10,6 +10,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZhMXE0cTQ2dzRya2JhZHEya2Z5Z2NxMDhoMThsZ254cXpld2Q3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtXRDVzaCPXSynUz7h/giphy.gif"  />
+
+###
+
 <h2 align="left">📝Languages</h2>
 
 ###
@@ -23,12 +27,6 @@
 ###
 
 <p align="left">- Vivado, ModelSim, Synopsys Design Compiler, Formality, Cadence SoC Encounter, Quartus Prime</p>
-
-###
-
-<div align="right">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZhMXE0cTQ2dzRya2JhZHEya2Z5Z2NxMDhoMThsZ254cXpld2Q3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtXRDVzaCPXSynUz7h/giphy.gif"  />
-</div>
 
 ###
 
