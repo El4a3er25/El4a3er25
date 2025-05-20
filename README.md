@@ -47,12 +47,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/El4a3er25/El4a3er25/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=El4a3er25.El4a3er25&"  />
-</div>
-
-###
